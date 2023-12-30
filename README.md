@@ -1,2 +1,2 @@
-#Translater
-![Screenshot](Screenshot.PNG)
+# Translater
+![Screenshot](Screenshot.png)
