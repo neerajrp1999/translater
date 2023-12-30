@@ -4,7 +4,7 @@
 
 ### Output
 
-= RESTART: D:\Praactice\project\app.py </br>
+===================== RESTART: D:\Praactice\project\app.py ===================== </br>
 Enter word: hello </br>
 Expression of greeting used by two or more people who meet each other. </br>
 
